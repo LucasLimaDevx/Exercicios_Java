@@ -1,0 +1,5 @@
+package problema_9.model.exception;
+
+public class DuracaoCursoInvalidaException {
+
+}

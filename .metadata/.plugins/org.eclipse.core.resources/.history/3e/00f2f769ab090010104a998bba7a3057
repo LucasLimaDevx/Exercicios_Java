@@ -1,0 +1,5 @@
+package problema_6.model.exception;
+
+public class NotaReprovadaException {
+
+}

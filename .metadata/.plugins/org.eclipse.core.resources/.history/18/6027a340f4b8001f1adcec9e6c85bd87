@@ -1,0 +1,39 @@
+package application;
+import java.util.Locale;
+import java.util.Scanner;
+
+import entities.RendimentoMensal;
+
+public class Program {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.print("Capital inicial: ");
+		double capitalInicial = sc.nextDouble();
+		
+		System.out.print("Taxa mensal: ");
+		double taxaMensal = sc.nextDouble();
+		
+		System.out.print("Tempo: ");
+		int tempo = sc.nextInt();
+		
+		System.out.printf("Rendimento objetivo: ");
+		double rendimentoObjetivo = sc.nextDouble();
+		
+		RendimentoMensal rendMensal = new RendimentoMensal(capitalInicial, taxaMensal, tempo);
+		
+		double valorAcumulador = rendMensal.calcularValorAcumulador();
+		double rendimentoTotal = rendMensal.calcularRedimentoTotal();
+		String rendObjetivo = rendMensal.verificarRendimentoTotal(rendimentoObjetivo);
+		
+		
+		System.out.printf("Valor acumulado: %.2f%n", valorAcumulador);
+		System.out.printf("Rendimento total: %.2f%n", rendimentoTotal);
+		System.out.println(rendObjetivo);
+		sc.close();
+	}
+
+}

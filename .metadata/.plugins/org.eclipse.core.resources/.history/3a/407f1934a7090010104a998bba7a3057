@@ -1,0 +1,5 @@
+package problema_5.model.exception;
+
+public class PlacaInvalidaException {
+
+}

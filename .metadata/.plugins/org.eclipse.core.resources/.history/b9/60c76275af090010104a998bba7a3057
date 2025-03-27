@@ -1,0 +1,5 @@
+package problema_10.model.exception;
+
+public class EnderecoInvalidoException {
+
+}

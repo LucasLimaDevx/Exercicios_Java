@@ -1,0 +1,20 @@
+package problema_3.model.application;
+
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner input = new Scanner(System.in);
+		
+		System.out.print("Digite o nome: ");
+		String nome = input.next();
+		
+		System.out.print("Digite o sobrenome: ");
+		String sobreNome = input.next();
+		
+		input.close();
+	}
+
+}

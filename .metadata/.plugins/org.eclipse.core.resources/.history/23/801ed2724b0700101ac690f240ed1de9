@@ -1,0 +1,5 @@
+package problema_9.model.entities;
+
+public class Curso {
+
+}

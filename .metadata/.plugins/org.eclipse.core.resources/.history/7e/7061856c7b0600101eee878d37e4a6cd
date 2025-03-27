@@ -1,0 +1,43 @@
+package problema_3.model.entities;
+
+public class Pessoa {
+	private String nome;
+	private String sobreNome;
+	private Integer cpf;
+	
+	public Pessoa(String nome, String sobreNome, Integer cpf) {
+		
+		this.nome = nome;
+		this.sobreNome = sobreNome;
+		this.cpf = cpf;
+	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+	public String getSobreNome() {
+		return sobreNome;
+	}
+
+	public void setSobreNome(String sobreNome) {
+		this.sobreNome = sobreNome;
+	}
+
+	public Integer getCpf() {
+		return cpf;
+	}
+
+	public void setCpf(Integer cpf) {
+		this.cpf = cpf;
+	}
+	
+	
+	
+	
+	
+}

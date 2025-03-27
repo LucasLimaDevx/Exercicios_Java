@@ -1,0 +1,5 @@
+package problema_6.model.application;
+
+public class CadastroDeProduto {
+
+}

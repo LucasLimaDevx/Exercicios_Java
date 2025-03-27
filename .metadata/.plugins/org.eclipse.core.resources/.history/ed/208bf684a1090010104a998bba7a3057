@@ -1,0 +1,5 @@
+package problema_2.model.entities;
+
+public class Aluno {
+
+}

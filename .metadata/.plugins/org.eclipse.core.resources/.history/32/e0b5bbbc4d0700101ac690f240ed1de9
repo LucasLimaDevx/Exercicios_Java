@@ -1,0 +1,19 @@
+package problema_10.model.application;
+
+import problema_10.model.entities.Cliente;
+
+public class Program {
+
+	public static void main(String[] args) {
+		CadastroDeCliente sistema = new CadastroDeCliente();
+		Cliente c1 = new Cliente("Lucas", "12345678901");
+		Cliente c2 = new Cliente("Wallace","01987654321");
+		
+		sistema.adicionarCliente(c1);
+		sistema.adicionarCliente(c2);
+		
+		sistema.procurarCliente("12345678901");
+
+	}
+
+}

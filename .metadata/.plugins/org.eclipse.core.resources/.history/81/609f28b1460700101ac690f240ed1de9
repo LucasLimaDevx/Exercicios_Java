@@ -1,0 +1,16 @@
+package problema_6.model.application;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import problema_6.model.entities.Produto;
+
+public class CadastroDeProduto {
+	private List<Produto> produtos = new ArrayList<>();
+	
+	public void adicionarProduto(String nome, Double preco) {
+		Produto produto = new Produto(nome, preco);
+		
+		produtos.add(produto);
+	}
+}

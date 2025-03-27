@@ -1,0 +1,90 @@
+package application;
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.print("QUANTOS NÚMEROS VOCÊ VAI DIGITAR? ");
+		int n = sc.nextInt();
+		
+		double[] arr = new double[n];
+		String msg = "VALORES = ";
+		for(int i = 0 ; i < arr.length ; i++) {
+			System.out.print("Digite um número: ");
+			double numero = sc.nextDouble();
+			
+			
+			arr[i] = numero;
+			msg += arr[i] + " ";
+		}
+		
+		System.out.println(msg);
+		
+		double soma = 0;
+		
+		for(int i = 0 ; i < arr.length ; i++) {
+			soma += arr[i];
+		}
+		double media = soma / arr.length;
+		
+		
+		System.out.println("SOMA = " + soma);
+		System.out.println("MEDIA = " + media);
+		
+		
+		sc.close();
+	}
+
+}
+/*package application;
+import java.util.Locale;
+import java.util.Scanner;
+
+import entities.RendimentoMensal;
+
+public class Program {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		
+		Scanner sc = new Scanner(System.in);
+		int n;
+		do {
+			
+			System.out.print("Digite um número positivo não nulo: ");
+			n = sc.nextInt();
+			
+		}while(n < 0 && n > 10);
+		
+		int[] arr = new int[n];
+		
+		for(int i = 0 ; i < arr.length ; i++) {
+			
+			System.out.print("Digite num número: ");
+			int number = sc.nextInt();
+			
+			arr[i] = number;
+			
+		}
+		
+		System.out.println("NUMEROS NEGATIVOS:");
+		
+		for(int i = 0 ; i < arr.length ; i++) {
+			
+			if(arr[i] < 0) {
+				System.out.println(arr[i]);
+			}
+		}
+		
+		
+		
+		sc.close();
+	}
+
+}
+*/

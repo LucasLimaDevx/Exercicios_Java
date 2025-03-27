@@ -1,0 +1,5 @@
+package problema_8.model.entities;
+
+public class Produto {
+
+}

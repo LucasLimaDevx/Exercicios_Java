@@ -1,0 +1,5 @@
+package problema_3.model.exception;
+
+public class CPFInvalidoException {
+
+}
