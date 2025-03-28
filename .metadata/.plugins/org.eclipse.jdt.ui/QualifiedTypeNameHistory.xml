@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="problema_7.application.SistemaDePedidos"/>
-    <fullyQualifiedTypeName name="problema_8.entities.Computador"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
-    <fullyQualifiedTypeName name="problema_8.entities.Equipamento"/>
-    <fullyQualifiedTypeName name="problema_8.application.ControleDeEquipamentos"/>
-    <fullyQualifiedTypeName name="problema_9.entities.PacienteInternado"/>
-    <fullyQualifiedTypeName name="problema_9.entities.Paciente"/>
-    <fullyQualifiedTypeName name="problema_9.application.GestaoDePacientes"/>
-    <fullyQualifiedTypeName name="problema_10.entities.ProdutoEletronico"/>
-    <fullyQualifiedTypeName name="problema_10.application.SistemaDeCadastro"/>
     <fullyQualifiedTypeName name="problema_2.entities.ContaPoupanca"/>
     <fullyQualifiedTypeName name="problema_5.entities.Gato"/>
     <fullyQualifiedTypeName name="problema_6.entities.Instrumento"/>
@@ -37,7 +27,6 @@
     <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
     <fullyQualifiedTypeName name="problema_3.model.exception.CPFInvalidoException"/>
     <fullyQualifiedTypeName name="problema_4.model.exceptions.SaldoInsuficienteException"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="problema_5.model.exception.DivisaoPorZeroException"/>
     <fullyQualifiedTypeName name="problema_6.model.application.CadastroDeProduto"/>
     <fullyQualifiedTypeName name="problema_6.model.exception.NomeProdutoVazioException"/>
@@ -56,8 +45,19 @@
     <fullyQualifiedTypeName name="problema_6.model.exception.NotaReprovadaException"/>
     <fullyQualifiedTypeName name="problema_7.model.exception.EmailInvalidoException"/>
     <fullyQualifiedTypeName name="problema_8.model.exception.PrecoInvalidoException"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="problema_9.model.exception.PagamentoInsuficienteException"/>
     <fullyQualifiedTypeName name="problema_10.model.exception.EnderecoInvalidoException"/>
+    <fullyQualifiedTypeName name="application.Program"/>
+    <fullyQualifiedTypeName name="entities.DemoClass"/>
+    <fullyQualifiedTypeName name="problema_2.model.interfaces.Dispositivo"/>
+    <fullyQualifiedTypeName name="problema_2.model.entities.Radio"/>
+    <fullyQualifiedTypeName name="problema_4.model.entities.ContaBancaria"/>
+    <fullyQualifiedTypeName name="problema_4.model.interfaces.ContaBancaria"/>
+    <fullyQualifiedTypeName name="problema_4.model.entities.ContaCorrente"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="problema_4.model.entities.ContaPoupanca"/>
+    <fullyQualifiedTypeName name="problema_5.model.entities.ConversorDeTemperatura"/>
+    <fullyQualifiedTypeName name="problema_5.model.entities.ConversorDeDistancia"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
 </qualifiedTypeNameHistroy>
