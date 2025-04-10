@@ -1,8 +1,0 @@
-package problema_7.model.exception;
-
-public class EmailInvalidoException extends Exception {
-	
-	public EmailInvalidoException(String msg) {
-		super(msg);
-	}
-}

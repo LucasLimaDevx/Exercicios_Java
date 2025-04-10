@@ -1,5 +1,0 @@
-package problema_7.model.exception;
-
-public class EmailInvalidoException {
-
-}

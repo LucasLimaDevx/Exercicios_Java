@@ -1,5 +1,0 @@
-package problema_4.model.exceptions;
-
-public class SaldoInsuficienteException {
-
-}

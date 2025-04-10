@@ -1,5 +1,0 @@
-package problema_8.model.exception;
-
-public class ArquivoNaoEncontradoException {
-
-}
