@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="problema_6.model.application.CadastroDeProduto"/>
-    <fullyQualifiedTypeName name="problema_6.model.exception.NomeProdutoVazioException"/>
-    <fullyQualifiedTypeName name="problema_6.model.entities.Produto"/>
     <fullyQualifiedTypeName name="problema_7.model.exception.TemperaturaInvalidaException"/>
     <fullyQualifiedTypeName name="problema_8.model.exception.ArquivoNaoEncontradoException"/>
     <fullyQualifiedTypeName name="problema_9.model.application.CadastroDeCurso"/>
@@ -46,7 +43,6 @@
     <fullyQualifiedTypeName name="problema_3.model.entities.RoboLimpeza"/>
     <fullyQualifiedTypeName name="problema_3.model.entities.RoboSeguranca"/>
     <fullyQualifiedTypeName name="problema_4.model.entities.Portugues"/>
-    <fullyQualifiedTypeName name="java.lang.Comparable"/>
     <fullyQualifiedTypeName name="problema_5.model.interfaces.Ordenacao"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="problema_5.model.application.Ordenar"/>
@@ -60,4 +56,8 @@
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="problema_7.model.entities.ProdutoAbstrato"/>
     <fullyQualifiedTypeName name="problema_7.model.enums.TipoDeProduto"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="problema_8.model.entities.FiltroLista"/>
+    <fullyQualifiedTypeName name="problema_10.model.entities.ConverterColecao"/>
 </qualifiedTypeNameHistroy>
