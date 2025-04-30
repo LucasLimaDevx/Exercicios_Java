@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="problema_7.model.exception.TemperaturaInvalidaException"/>
-    <fullyQualifiedTypeName name="problema_8.model.exception.ArquivoNaoEncontradoException"/>
-    <fullyQualifiedTypeName name="problema_9.model.application.CadastroDeCurso"/>
-    <fullyQualifiedTypeName name="problema_9.model.exception.DuracaoCursoInvalidaException"/>
     <fullyQualifiedTypeName name="problema_10.model.application.CadastroDeCliente"/>
     <fullyQualifiedTypeName name="problema_10.model.exception.ClienteNaoEncontradoException"/>
     <fullyQualifiedTypeName name="problema_1.model.exception.CartaoInvalidoException"/>
@@ -46,7 +42,6 @@
     <fullyQualifiedTypeName name="problema_5.model.interfaces.Ordenacao"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="problema_5.model.application.Ordenar"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="problema_6.model.entities.EventoPessoal"/>
     <fullyQualifiedTypeName name="problema_6.model.entities.EventoCorporativo"/>
     <fullyQualifiedTypeName name="problema_7.model.application.Eletronico"/>
@@ -60,4 +55,9 @@
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
     <fullyQualifiedTypeName name="problema_8.model.entities.FiltroLista"/>
     <fullyQualifiedTypeName name="problema_10.model.entities.ConverterColecao"/>
+    <fullyQualifiedTypeName name="java.lang.Number"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="problema_4.model.entities.ConverterParaArray"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.lang.SuppressWarnings"/>
 </qualifiedTypeNameHistroy>
