@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="problema_1.model.exception.CartaoInvalidoException"/>
-    <fullyQualifiedTypeName name="problema_2.model.exception.NomeInvalidoException"/>
-    <fullyQualifiedTypeName name="problema_3.model.exception.EmprestimoExcedidoException"/>
-    <fullyQualifiedTypeName name="problema_4.model.exception.UsuarioNaoAutenticadoException"/>
-    <fullyQualifiedTypeName name="problema_5.model.exception.PlacaInvalidaException"/>
     <fullyQualifiedTypeName name="problema_6.model.exception.NotaReprovadaException"/>
     <fullyQualifiedTypeName name="problema_7.model.exception.EmailInvalidoException"/>
     <fullyQualifiedTypeName name="problema_8.model.exception.PrecoInvalidoException"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="problema_9.model.exception.PagamentoInsuficienteException"/>
     <fullyQualifiedTypeName name="problema_10.model.exception.EnderecoInvalidoException"/>
     <fullyQualifiedTypeName name="application.Program"/>
@@ -60,4 +54,10 @@
     <fullyQualifiedTypeName name="java.lang.SuppressWarnings"/>
     <fullyQualifiedTypeName name="problema_7.model.entities.Pilha"/>
     <fullyQualifiedTypeName name="problema_10.model.entities.Cache"/>
+    <fullyQualifiedTypeName name="problema_1.model.entities.Aluno"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+    <fullyQualifiedTypeName name="problema_1.model.entities.Funcionario"/>
+    <fullyQualifiedTypeName name="problema_3.model.entities.Pessoa"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
