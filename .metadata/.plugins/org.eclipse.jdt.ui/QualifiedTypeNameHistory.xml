@@ -26,7 +26,6 @@
     <fullyQualifiedTypeName name="problema_2.model.interfaces.Pagamento"/>
     <fullyQualifiedTypeName name="problema_2.model.entities.CartaoCredito"/>
     <fullyQualifiedTypeName name="problema_2.model.entities.Boleto"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="problema_3.model.entities.RoboLimpeza"/>
     <fullyQualifiedTypeName name="problema_3.model.entities.RoboSeguranca"/>
     <fullyQualifiedTypeName name="problema_4.model.entities.Portugues"/>
@@ -59,5 +58,6 @@
     <fullyQualifiedTypeName name="problema_1.model.entities.Funcionario"/>
     <fullyQualifiedTypeName name="problema_3.model.entities.Pessoa"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
