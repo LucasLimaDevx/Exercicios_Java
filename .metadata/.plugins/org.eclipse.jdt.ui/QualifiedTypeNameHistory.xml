@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="problema_7.model.exception.EmailInvalidoException"/>
     <fullyQualifiedTypeName name="problema_8.model.exception.PrecoInvalidoException"/>
     <fullyQualifiedTypeName name="problema_9.model.exception.PagamentoInsuficienteException"/>
     <fullyQualifiedTypeName name="problema_10.model.exception.EnderecoInvalidoException"/>
@@ -42,7 +41,6 @@
     <fullyQualifiedTypeName name="problema_7.model.entities.ProdutoAbstrato"/>
     <fullyQualifiedTypeName name="problema_7.model.enums.TipoDeProduto"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
-    <fullyQualifiedTypeName name="java.lang.Comparable"/>
     <fullyQualifiedTypeName name="problema_8.model.entities.FiltroLista"/>
     <fullyQualifiedTypeName name="problema_10.model.entities.ConverterColecao"/>
     <fullyQualifiedTypeName name="java.lang.Number"/>
@@ -58,6 +56,8 @@
     <fullyQualifiedTypeName name="problema_1.model.entities.Funcionario"/>
     <fullyQualifiedTypeName name="problema_3.model.entities.Pessoa"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="problema_4.model.entities.Funcionario"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
 </qualifiedTypeNameHistroy>
