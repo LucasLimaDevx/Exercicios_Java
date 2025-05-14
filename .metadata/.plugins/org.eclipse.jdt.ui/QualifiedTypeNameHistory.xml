@@ -44,7 +44,6 @@
     <fullyQualifiedTypeName name="problema_8.model.entities.FiltroLista"/>
     <fullyQualifiedTypeName name="problema_10.model.entities.ConverterColecao"/>
     <fullyQualifiedTypeName name="java.lang.Number"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="problema_4.model.entities.ConverterParaArray"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
     <fullyQualifiedTypeName name="java.lang.SuppressWarnings"/>
@@ -56,8 +55,9 @@
     <fullyQualifiedTypeName name="problema_1.model.entities.Funcionario"/>
     <fullyQualifiedTypeName name="problema_3.model.entities.Pessoa"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="problema_4.model.entities.Funcionario"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
 </qualifiedTypeNameHistroy>
