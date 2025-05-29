@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="problema_8.model.exception.PrecoInvalidoException"/>
-    <fullyQualifiedTypeName name="problema_9.model.exception.PagamentoInsuficienteException"/>
-    <fullyQualifiedTypeName name="problema_10.model.exception.EnderecoInvalidoException"/>
-    <fullyQualifiedTypeName name="application.Program"/>
-    <fullyQualifiedTypeName name="entities.DemoClass"/>
-    <fullyQualifiedTypeName name="problema_2.model.interfaces.Dispositivo"/>
-    <fullyQualifiedTypeName name="problema_2.model.entities.Radio"/>
     <fullyQualifiedTypeName name="problema_4.model.entities.ContaBancaria"/>
     <fullyQualifiedTypeName name="problema_4.model.interfaces.ContaBancaria"/>
     <fullyQualifiedTypeName name="problema_4.model.entities.ContaCorrente"/>
@@ -29,12 +22,10 @@
     <fullyQualifiedTypeName name="problema_3.model.entities.RoboSeguranca"/>
     <fullyQualifiedTypeName name="problema_4.model.entities.Portugues"/>
     <fullyQualifiedTypeName name="problema_5.model.interfaces.Ordenacao"/>
-    <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="problema_5.model.application.Ordenar"/>
     <fullyQualifiedTypeName name="problema_6.model.entities.EventoPessoal"/>
     <fullyQualifiedTypeName name="problema_6.model.entities.EventoCorporativo"/>
     <fullyQualifiedTypeName name="problema_7.model.application.Eletronico"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="problema_7.model.application.Estoque"/>
     <fullyQualifiedTypeName name="problema_7.model.entities.Eletronico"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
@@ -57,7 +48,16 @@
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="problema_4.model.entities.Funcionario"/>
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.awt.desktop.OpenFilesHandler"/>
+    <fullyQualifiedTypeName name="problema_1.model.entities.Multiplicacao"/>
+    <fullyQualifiedTypeName name="problema_1.model.interfaces.OperacaoMatematica"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="problema_3.model.entities.Funcionario"/>
+    <fullyQualifiedTypeName name="problema_5.model.entities.OperacaoMatematica"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
 </qualifiedTypeNameHistroy>
