@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="problema_5.model.entities.ConversorDeTemperatura"/>
-    <fullyQualifiedTypeName name="problema_5.model.entities.ConversorDeDistancia"/>
-    <fullyQualifiedTypeName name="problema_7.model.entities.CartaDeBaralho"/>
-    <fullyQualifiedTypeName name="problema_8.model.interfaces.Sensor"/>
-    <fullyQualifiedTypeName name="problema_8.model.entities.SensorTemperatura"/>
-    <fullyQualifiedTypeName name="problema_8.model.entities.SensorPressao"/>
-    <fullyQualifiedTypeName name="problema_9.model.interfaces.Instrumento"/>
-    <fullyQualifiedTypeName name="problema_9.model.entities.Guitarra"/>
-    <fullyQualifiedTypeName name="problema_9.model.entities.Piano"/>
-    <fullyQualifiedTypeName name="problema_10.model.interfaces.Notificacao"/>
-    <fullyQualifiedTypeName name="problema_2.model.interfaces.Pagamento"/>
-    <fullyQualifiedTypeName name="problema_2.model.entities.CartaoCredito"/>
     <fullyQualifiedTypeName name="problema_2.model.entities.Boleto"/>
     <fullyQualifiedTypeName name="problema_3.model.entities.RoboLimpeza"/>
     <fullyQualifiedTypeName name="problema_3.model.entities.RoboSeguranca"/>
@@ -44,10 +32,7 @@
     <fullyQualifiedTypeName name="problema_4.model.entities.Funcionario"/>
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
     <fullyQualifiedTypeName name="java.awt.desktop.OpenFilesHandler"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="problema_3.model.entities.Funcionario"/>
     <fullyQualifiedTypeName name="problema_5.model.entities.OperacaoMatematica"/>
@@ -57,7 +42,22 @@
     <fullyQualifiedTypeName name="problema_7.model.entities.Temperatura"/>
     <fullyQualifiedTypeName name="problema_8.model.entities.Validador"/>
     <fullyQualifiedTypeName name="problema_9.model.entities.Palavra"/>
-    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="problema_10.model.entities.Produto"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="problema_1.model.enums.Categoria"/>
+    <fullyQualifiedTypeName name="problema_3.model.enums.Cor"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="problema_2.model.entities.FormaGeometrica"/>
+    <fullyQualifiedTypeName name="problema_3.model.entities.Subtracao"/>
+    <fullyQualifiedTypeName name="problema_6.model.entities.ContaBancaria"/>
+    <fullyQualifiedTypeName name="problema_7.model.entities.MatematicaAvancada"/>
+    <fullyQualifiedTypeName name="problema_8.model.entities.Funcionario"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="problema_9.model.entities.CalculadoraEstatistica"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="problema_2.model.entities.Investimento"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
 </qualifiedTypeNameHistroy>
